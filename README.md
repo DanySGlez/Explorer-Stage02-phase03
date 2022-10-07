@@ -5,7 +5,7 @@
 > Explorer
 
 Desafio realizado no Stage 02 do curso Explorer da Rocketseat. <br/>
-Nele recebemos um código com o projeto desenvolvido durante as aulas da Fase 02. <br/>
+Nele recebemos o código com o projeto desenvolvido durante as aulas da Fase 02. <br/>
 Desta vez devemos de deixar o site mais acessível com a utilização correta dos elementos do HTML. <br/>
 
 ### O desafio:
@@ -14,8 +14,10 @@ Desta vez devemos de deixar o site mais acessível com a utilização correta do
 
 ### Tecnologias utilizadas:
 
-- HTML
-- CSS
+<div style="display: inline_block">
+  <img align"center" alt="Dany-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"> 
+  <img align"center" alt="Dany-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="40"/> 
+</div>
 
 ## 
 <div>
