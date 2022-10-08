@@ -8,6 +8,8 @@ Desafio realizado no Stage 02 do curso Explorer da Rocketseat. <br/>
 Nele recebemos o código com o projeto desenvolvido durante as aulas da Fase 02. <br/>
 Desta vez devemos de deixar o site mais acessível com a utilização correta dos elementos do HTML. <br/>
 
+[Clique aqui para acessar](https://danysglez.github.io/Explorer-Stage02-phase03/)
+
 ### O desafio:
 - Deixar o site mais acessível.
 - Utilização correta dos elementos HTML.
